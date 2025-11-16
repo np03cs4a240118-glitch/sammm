@@ -34,7 +34,7 @@ header nav a:hover {
     text-decoration: underline;
 }
 
-/* SECTION STYLES */
+/* SECTION WRAPPER */
 section {
     max-width: 900px;
     margin: 50px auto;
@@ -92,4 +92,3 @@ button {
 button:hover {
     background: #005fcc;
 }
-
